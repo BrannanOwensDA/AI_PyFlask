@@ -1,9 +1,6 @@
 # AI_PyFlask
 AI applications with Python and Flask.
 
-# AI_PyFlask
-AI applications with Python and Flask.
-
 Typical Web App Stack
 
 Frontend -- HTML, CSS, JavaScript
