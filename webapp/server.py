@@ -14,3 +14,6 @@ def home():
 def json():
     """This returns some JSON data Key:value pair"""
     return {"message": "Hello World"}
+
+if __name__ == "__main__":
+    app.run(debug=True)
